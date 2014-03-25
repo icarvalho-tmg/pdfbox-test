@@ -1,0 +1,30 @@
+# ignore paths for Eclipse project ...
+*.pydevproject
+.attach_pid*
+.project
+.metadata
+.DS_Store
+target/
+activemq-data/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+*.jar
+*.log
+
+# external tool builders
+.externalToolBuilders/
+.repository/
+
+# locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT specific
+.cproject
